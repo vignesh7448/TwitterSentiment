@@ -1,6 +1,8 @@
 # TwitterSentiment
 #This project follows the MVC pattern
 
+#It is  developed in eclipse IDE and linux platform
+
 This code showed you how to analyse twitter data using java with BigData using map reduce technique
 
 
